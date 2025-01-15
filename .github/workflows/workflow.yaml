@@ -15,7 +15,7 @@ jobs:
 
       - name: Install python
         run: |
-          pip install python3.10
+          pip install python
           
       - name: Set up Python 3.10
         uses: actions/setup-python@v5
