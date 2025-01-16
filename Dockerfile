@@ -2,4 +2,4 @@
 FROM python:slim
 
 # Copia los ficheros de código Python a /code
-COPY .
+COPY . .
